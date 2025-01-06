@@ -1,6 +1,6 @@
-# Webcrawler Project
+# MD MCP Webcrawler Project
 
-A Python-based web crawler for extracting and saving website content. 
+A Python-based MCP (https://modelcontextprotocol.io/introduction) web crawler for extracting and saving website content. 
 
 ## Features
 - Extract website content and save as markdown files
@@ -62,6 +62,8 @@ or user custom settings to run with fastmcp directly
 ```bash
 fastmcp dev server.py --with-editable .
 ```
+### Debug 
+It helps to use https://modelcontextprotocol.io/docs/tools/inspector for debugging
 
 ## Examples
 
